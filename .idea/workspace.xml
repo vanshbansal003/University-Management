@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a7da188-e93c-46b7-832d-2555501ee843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/University Management.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jcalendar-tz-1.3.3-4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/management/system/AddFaculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/management/system/Conn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/management/system/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/management/system/Splash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University/management/system/main_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/exam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/fee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/first.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/loginback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/second.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/icon/third.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/management/system/ExaminationDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/University/management/system/Marks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/University Management.iml" beforeDir="false" afterPath="$PROJECT_DIR$/University Management.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/University/management/system/EnterMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/University/management/system/EnterMarks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -55,17 +44,20 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AddFaculty.executor": "Run",
+    "Application.AddStudent.executor": "Run",
+    "Application.EnterMarks.executor": "Run",
     "Application.Login.executor": "Run",
+    "Application.Marks.executor": "Run",
     "Application.Splash.executor": "Run",
     "Application.main_class.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Vansh Bansal/Desktop/java/University Management/jcalendar-tz-1.3.3-4.jar",
-    "project.structure.last.edited": "Libraries",
+    "last_opened_file_path": "C:/Users/Vansh Bansal/Downloads/rs2xml.jar",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
